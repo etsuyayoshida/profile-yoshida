@@ -131,7 +131,7 @@ h2:before {
 	margin-left:10%;
     margin-top: 5%;
     font-family: serif;
-    border: 5px solid blue;
+    border: 5px outset blue;
     margin-right: 74%;
     
 }
@@ -157,7 +157,7 @@ h4{
 	margin-left:10%;
     margin-top: 15%;
     font-family: serif;
-    border: 5px solid blue;
+    border: 5px outset blue;
     margin-right:59%;
 }
 .mainArea2 ul{
@@ -166,25 +166,13 @@ h4{
 	font-size: 20px;
 	margin: 20px 20px 20px 100px;
 
-}
-h5{
-	font-size: 50px;
-	margin-left:10%;
-    margin-top: 5%;
-    }
-.mainArea3 ul{
-	list-style: none;
-	font-family: serif;
-	font-size: 20px;
-	margin: 20px 20px 20px 100px;
-}   
 
 h6{
 	font-size: 50px;
 	margin-left:10%;
     margin-top: 5%;
     font-family: serif;
-    border:5px solid blue;
+    border:5px outset blue;
     margin-right: 74%;
 }
 .mainArea4 ul{
