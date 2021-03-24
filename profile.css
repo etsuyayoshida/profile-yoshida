@@ -70,7 +70,8 @@ h1{
   position: relative;
   color: #333;
   font-size: 80px;
-  display: block;
+  display: inline-block;
+  margin: 47px 0;
   text-shadow: 0 0 2px white;
   
 }
