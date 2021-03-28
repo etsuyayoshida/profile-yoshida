@@ -129,12 +129,14 @@ h2:before {
 
 
  h3{
-	font-size: 50px;
-	margin-left:10%;
+  font-size: 50px;
+    margin-left: 10%;
     margin-top: 5%;
     font-family: serif;
-    border: 5px outset blue;
+    border: 5px outset skyblue;
     margin-right: 74%;
+    border-radius: 15%;
+	
     
 }
 .mainArea1 {
