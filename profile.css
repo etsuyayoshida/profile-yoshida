@@ -161,8 +161,9 @@ h4{
 	margin-left:10%;
     margin-top: 15%;
     font-family: serif;
-    border: 5px outset blue;
+    border: 5px outset skyblue;
     margin-right:59%;
+    border-radius: 15%;
 }
 .mainArea2 ul{
 	list-style: none;
@@ -177,8 +178,9 @@ h5{
 	margin-left:10%;
     margin-top: 5%;
     font-family: serif;
-    border:5px outset blue;
+    border:5px outset skyblue;
     margin-right: 74%;
+    border-radius: 15%;
 }
 .mainArea4 ul{
     list-style: none;
