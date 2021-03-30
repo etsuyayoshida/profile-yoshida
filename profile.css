@@ -208,12 +208,9 @@ h5{
 
 /*レスポンシブ対応*/
 
-@media screen and (max-width:900px){
+@media screen and (max-width:px){
 	.header-list{
-           display: flex;
-           justify-content: flex-end;
-           margin-right: 50%;
-           font-size: 20px;
+           
          }
 
 
