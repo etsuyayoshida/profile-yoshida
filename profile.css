@@ -129,7 +129,10 @@ h2:before {
 
 
  h3{
-  font-size: 50px;
+    display:inline-block;
+    position: relative;
+    left:80px;
+    font-size: 50px;
     margin-left: 10%;
     margin-top: 5%;
     font-family: serif;
@@ -210,13 +213,7 @@ h5{
 
 @media screen and (max-width:950px){
 	h3 {
-    font-size: 40px;
-    margin-left: 7%;
-    margin-top: 5%;
-    font-family: serif;
-    border: 5px outset skyblue;
-    margin-right: 74%;
-    border-radius: 15%;
+    
 }
 
 
