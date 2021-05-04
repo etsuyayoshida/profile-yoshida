@@ -1,2 +1,2 @@
-let practice = document.querySelector('.main h1');
-practice.innerHTML = '<h6>こんばんは</h6>';
+let practice = document.querySelector('.main .hello');
+practice.innerHTML = '<h1>こんばんは</h1>';
