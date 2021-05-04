@@ -1,2 +1,2 @@
-var practice = document.getElementById('header-logo').interHTML;
+var practice = document.getElementById('header-logo');
 practice.interHTML = '<p>kdockskdjcn</p>';
