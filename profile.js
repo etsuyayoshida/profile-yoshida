@@ -1,2 +1,2 @@
 let practice = document.getElementById(main);
-practice.innerHTML = '<h1>こんばんは</h1>';
+practice.innerHTML = '<h2>こんばんは</h2>';
