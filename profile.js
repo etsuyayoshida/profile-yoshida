@@ -10,3 +10,9 @@ button.addEventListener('click', function() {
 	//フォームを表示
 	form.style.display = 'block';
 });
+
+//おみくじの結果データを作成
+results = ['大吉','吉','中吉','小吉','凶'];
+console.log(results);
+
+console.log(results[0]);
