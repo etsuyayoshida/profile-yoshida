@@ -29,3 +29,12 @@ let omikuji = {
 }
 
 console.log(omikuji.getResult()); 
+
+// 要素オブジェクトの取得
+let getResult = document.getElementById('getResult');
+let result = document.getElementById('result');
+
+//イベントの登録
+getResult.addEventListener('click', function(){
+	result.innerHTML = '結果は「' + omikuji.getResult() + '」でした。';
+});
