@@ -27,6 +27,6 @@ let omikuji = {
     	return results[Math.floor(Math.random() * results.length)];
     }
 }
-
+   
 
 console.log(omikuji.getresults());
