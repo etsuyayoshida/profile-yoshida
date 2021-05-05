@@ -23,7 +23,7 @@ for (let i = 0; i < results.length; i++) {
 let omikuji = {
 	results: ['大吉','吉','中吉','小吉','凶']
     getResults: function() {
-    	let results = this.results
+    	let results = this.results;
     	return results[Math.floor(Math.random() * results.length)];
     }
 }
