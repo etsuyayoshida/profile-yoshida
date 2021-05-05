@@ -20,13 +20,3 @@ for (let i = 0; i < results.length; i++) {
 	console.log('index:' + i + 'データ:' + results[i]);
 }
 
-let omikuji = {
-	results: ['大吉','吉','中吉','小吉','凶']
-    getresults: function() {
-    	let results = this.results
-    	return results[Math.floor(Math.random() * results.length)];
-    }
-}
-   
-
-console.log(omikuji.getresults());
