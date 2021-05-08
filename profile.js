@@ -17,7 +17,7 @@ let omikuji = {
 
 console.log(omikuji.getResult()); 
 
-let element = document.querySelector('.omake h6');
+let element = document.createElement('h6');
 element.innerHTML = '<h6>a</h6>';
 
 // 要素オブジェクトの取得
