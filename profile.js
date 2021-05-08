@@ -17,7 +17,7 @@ let omikuji = {
 
 console.log(omikuji.getResult()); 
 
-let element = document.getElementById('omake');
+let element = document.querySelector('.omake');
 element.innerHTML ='<h6>吉田のおみくじ</h6>'
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
