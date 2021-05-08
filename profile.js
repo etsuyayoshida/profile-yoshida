@@ -26,6 +26,7 @@ element.style.fontSize = '30px';
 let getResult = document.getElementById('getResult');
 getResult.style.marginLeft = '80px';
 let result = document.getElementById('result');
+result.style.marginLeft = '80px';
 
 //イベントの登録
 getResult.addEventListener('click', function(){
