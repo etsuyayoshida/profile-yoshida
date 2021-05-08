@@ -17,6 +17,9 @@ let omikuji = {
 
 console.log(omikuji.getResult()); 
 
+let omake = document.getElementById('omake');
+omake.style.color = '#FF0000';
+
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
 let result = document.getElementById('result');
