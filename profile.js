@@ -18,7 +18,7 @@ let omikuji = {
 console.log(omikuji.getResult()); 
 
 let element = document.createElement('h6');
-element.innerHTML = '<h6>a</h6>';
+element.style.fontSize = '30px';
 
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
