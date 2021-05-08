@@ -17,9 +17,8 @@ let omikuji = {
 
 console.log(omikuji.getResult()); 
 
-let element = document.createElement('h6');
-element.style.fontSize = '30px';
-
+let element = document.getElementById('omake');
+element.innerHTML ='<h6>吉田のおみくじ</h6>'
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
 let result = document.getElementById('result');
