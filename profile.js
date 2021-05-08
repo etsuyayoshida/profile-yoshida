@@ -20,6 +20,7 @@ console.log(omikuji.getResult());
 let element = document.querySelector('h6');
 element.innerHTML = '<h6>吉田のおみくじ</h6>';
 element.style.color = '#FF0000';
+element.style.left = '80px';
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
 let result = document.getElementById('result');
