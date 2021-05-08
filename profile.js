@@ -24,6 +24,7 @@ element.style.marginLeft = '80px';
 element.style.fontSize = '30px';
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
+getResult.style.marginLeft = '80px';
 let result = document.getElementById('result');
 
 //イベントの登録
