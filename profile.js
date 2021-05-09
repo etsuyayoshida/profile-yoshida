@@ -39,7 +39,7 @@ getResult.addEventListener('click', function(){
 /* プログラムで使用する変数の設定　**************/
 //フォームの要素を取得
 let button = document.getElementById('button');
-button.style.marginTop = '250px';
+button.style.marginTop = '180px';
 let form = document.getElementById('form');
 
 
