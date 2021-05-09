@@ -26,9 +26,10 @@ element.style.textAlign = 'center';
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
 getResult.style.marginLeft = '80px';
+getResult.style.textAlign = 'center';
 let result = document.getElementById('result');
 result.style.marginLeft = '80px';
-
+result.style.textAlign = 'center';
 //イベントの登録
 getResult.addEventListener('click', function(){
 	result.innerHTML = '結果は「' + omikuji.getResult() + '」でした。';
