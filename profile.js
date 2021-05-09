@@ -40,9 +40,9 @@ getResult.addEventListener('click', function(){
 //フォームの要素を取得
 let button = document.getElementById('button');
 button.style.marginTop = '180px';
-button.style.marginLeft = '40px';
+button.style.marginLeft = '25px';
 let form = document.getElementById('form');
-form.style.marginLeft = '40px';
+form.style.marginLeft = '25px';
 
 /* イベント処理 *************/
 // お問い合わせボタンを押したとき
