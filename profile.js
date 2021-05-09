@@ -25,9 +25,9 @@ element.style.fontSize = '30px';
 element.style.textAlign = 'center';
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
-getResult.style.position = 'absolute';
-getResult.style.top = '50%';
-getResult.style.marginTop = '-.5em';
+getResult.style.width = '80%';
+getResult.style.margin = '0 auto';
+getResult.style.maxWidth = '500px';
 let result = document.getElementById('result');
 result.style.marginLeft = '80px';
 result.style.textAlign = 'center';
