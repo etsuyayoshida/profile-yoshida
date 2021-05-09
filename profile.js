@@ -1,3 +1,24 @@
+//アルバmデータの作成
+let alubum = [
+  {src: 'S__39018499.jp', msg: '温泉街にて'},
+  {src: 'IMG_3533.JPG', msg: '倉庫会社にて'},
+  {src: 'IMG_2611.JPG', msg: 'ダンスサークルでの発表会'},
+  {src: 'DSC_9654.JPG', msg: 'コロナ終息したら旅行に行きたいです。'},
+];
+
+// 最初のデータを表示しておく
+let mainImage = document.createElement('img');
+mainImage.setAttribute('src', album[0].src);
+mainImage.setAttribute('alt', album[0].msg);
+
+let mainMsg = document.createElement('p');
+mainMsg.innerText = mainImage.alt;
+
+
+
+
+
+
 //おみくじの結果データを作成
 results = ['大吉','吉','中吉','小吉','凶'];
 console.log(results);
