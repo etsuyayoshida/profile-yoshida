@@ -22,6 +22,7 @@ element.innerHTML = '<h6>吉田のおみくじ</h6>';
 element.style.color = '#FF0000';
 element.style.marginLeft = '80px';
 element.style.fontSize = '30px';
+element.style.textAlign = 'center';
 // 要素オブジェクトの取得
 let getResult = document.getElementById('getResult');
 getResult.style.marginLeft = '80px';
