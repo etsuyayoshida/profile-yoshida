@@ -27,7 +27,7 @@ element.style.textAlign = 'center';
 let getResult = document.getElementById('getResult');
 getResult.style.width = '80%';
 getResult.style.margin = '0 auto';
-getResult.style.maxWidth = '500px';
+
 let result = document.getElementById('result');
 result.style.marginLeft = '80px';
 result.style.textAlign = 'center';
