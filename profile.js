@@ -1,7 +1,7 @@
 //アルバmデータの作成
 let alubum = [
   {src: 'S__39018499.jp', msg: '温泉街にて'},
-  {src: 'unnamed-2.jpg', msg: '倉庫会社にて'},
+  {src: 'S__40501253.jpg', msg: '倉庫会社にて'},
   {src: 'img/image_6483441.JPG', msg: 'ダンスサークルでの発表会'},
   {src: 'img/image_157478385.JPG', msg: 'コロナ終息したら旅行に行きたいです。'},
 ];
