@@ -14,7 +14,7 @@ mainImage.setAttribute('alt', album[0].msg);
 let mainMsg = document.createElement('p');
 mainMsg.innerText = mainImage.alt;
 
-let mainFlame = document.querySelector('#gallery .mainpic');
+let mainFlame = document.querySelector('#gallery .main1');
 mainFlame.insertBefore(mainImage, null);
 mainFlame.insertBefore(mainMsg, null);
 
