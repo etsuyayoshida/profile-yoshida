@@ -241,4 +241,16 @@ h5{
     width:100%;
 }
 
-#gallery 
+#gallery .main1 p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#gallery .thumb img {
+  border-radius: 400px;
+  height: 60px;
+  margin: 10px;
+  width: 60px;
+}
+
+#g
