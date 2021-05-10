@@ -8,7 +8,7 @@ let album = [
 
 // 最初のデータを表示しておく
 let mainImage = document.createElement('img');
-mainImage.setAttribute('alt', album[0].src);
+mainImage.setAttribute('src', album[0].src);
 mainImage.setAttribute('alt', album[0].msg);
 
 let mainMsg = document.createElement('p');
