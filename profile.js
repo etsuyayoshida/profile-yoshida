@@ -18,6 +18,15 @@ let mainFlame = document.querySelector('#gallery .main1');
 mainFlame.insertBefore(mainImage, null);
 mainFlame.insertBefore(mainMsg, null);
 
+//サムネ画像の表示
+let thumbFlame = document.querySelector('#gallery .thumb');
+for (let i = 0; i < album.length; i++) {
+	let thumbImage = document.createElement('img');
+	thumbImage.setAttribute('src', album[i].src);
+	thumbImage.setAttribute('alt', album[i].msg);
+	thumbFlame.insertBefore(thumbImage, null);
+}
+
 
 
 
