@@ -27,6 +27,14 @@ for (let i = 0; i < album.length; i++) {
 	thumbFlame.insertBefore(thumbImage, null);
 }
 
+//クリックした画像をメインにする
+thumbFlame.addEventListener('click', function(event) {
+	if (event.target.src) {
+		mainImage.src = evebt.target.src;
+		mainMsg.innerText = evebt.target.alt;
+	}
+});
+
 
 
 
