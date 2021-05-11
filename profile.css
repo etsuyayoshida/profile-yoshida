@@ -150,7 +150,7 @@ h2:before {
 
 }
 .mainArea1 ul{
-  list-style-image: none;
+  list-style: none;
 	font-family: serif;
 	font-size: 20px;
 	margin-right:  200px;
