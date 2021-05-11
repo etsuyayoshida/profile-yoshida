@@ -169,7 +169,7 @@ h4{
     border-radius: 15%;
 }
 .mainArea2 ul{
-	
+	list-style: none;
 	font-family: serif;
 	font-size: 20px;
 	margin: 20px 20px 20px 100px;
