@@ -142,8 +142,8 @@ h2:before {
     
 }
 .mainArea1 {
-	display: flex;
-	justify-content: space-around;
+	
+	
 }
  
 
@@ -152,7 +152,7 @@ h2:before {
 .mainArea1 ul{
   list-style: none;
 	font-family: serif;
-	font-size: 20px;
+	font-size: 200px;
 	margin-right:　20px;
 	margin-top: 20px;
 }
