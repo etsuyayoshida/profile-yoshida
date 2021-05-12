@@ -234,7 +234,7 @@ h5{
   width: 50px;
 }
 
-.gallery .main1 img {
+#gallery .main1 img {
     
     box-shadow: 0px 0px 14px #000;
     width:30%;
