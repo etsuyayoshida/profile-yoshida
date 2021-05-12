@@ -247,7 +247,7 @@ h5{
 #gallery .main1 p {
   font-size: 20px;
   font-weight: bold;
-  
+  margin-left: 100px;
 }
 
 #gallery .thumb img {
@@ -255,6 +255,7 @@ h5{
   height: 60px;
   margin: 10px;
   width: 60px;
+  margin-left: 100px;
 }
 
 
