@@ -226,7 +226,7 @@ h5{
      display: none;
    }
 
-.gallery{
+#gallery{
   box-sizing: border-box;
   margin:auto;
   left: 80px;
