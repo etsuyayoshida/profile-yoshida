@@ -227,7 +227,7 @@ h5{
    }
 
 .gallery{
-  box-sizing: border-box;
+  box-sizing: content-box;
   margin:auto;
   left: 80px;
   padding-top: 40px;
