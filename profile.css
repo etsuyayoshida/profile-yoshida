@@ -229,7 +229,7 @@ h5{
 .gallery{
   box-sizing: border-box;
   text-align: center;
-  margin: auto;
+  margin-left: 80px;
   padding-top: 40px;
   width: 50px;
 }
