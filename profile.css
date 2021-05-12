@@ -151,8 +151,7 @@ h2:before {
 
 
 .mainArea1 ul{
-  list-style-type: none;
-  background-image: none;
+  list-style: none;
   padding-left: 0;
 	font-family: serif;
 	font-size: 20px;
